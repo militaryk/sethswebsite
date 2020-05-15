@@ -1,0 +1,182 @@
+/*nav start here*/
+    #rcorners1 {
+        border-radius: 25px;
+        background: rgb(93, 147, 155);
+        padding: 10px;
+        border-bottom: 10px;
+      }
+
+    nav ul{
+        border-radius: 25px;
+        background:#468392;
+        margin:0px;
+        padding:10px;
+        }
+    
+    nav ul li{
+    display:inline;
+    margin:0px;
+    padding:0px;
+    }
+    
+    nav ul li a{
+    border-radius: 25px;
+    color:rgb(255, 255, 255);
+    background:rgb(99, 102, 102);
+    text-decoration:none;
+    padding:0px 25px;
+    display:inline;
+    text-align:center;
+    font-size: 28px;
+    font-weight: bold;
+    font-family:'Times New Roman';
+    }
+    
+    nav ul li a:hover{
+    color:rgb(255, 255, 255);
+    background:#2D7DD2;
+    }
+/*nav end here*/
+/*Text start here*/
+#home{
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 10px;
+    position:relative;top:10px;
+    font-size: medium;
+    align-self: auto;
+    size: auto;
+}
+
+#home2{
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+footer{
+    color: rgb(255, 255, 255);
+}
+
+#header{
+    text-align: middle;
+    text-emphasis: large;
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: 'Times New Roman';
+}
+
+#home3{
+  font-size: medium;
+   text-align: left;
+   font-weight: bolder;
+    font-family: 'Times New Roman';
+}
+
+#Celeste{
+  border-radius: 25px;
+  background: rgb(33, 173, 161);
+  padding: 10px;
+  position:relative;top:10px;
+  font-size: medium;
+  align-self: auto;
+  height:auto;
+}
+
+#Slime{
+  border-radius: 25px;
+  background: rgb(129, 90, 7);
+  padding: 10px;
+  position:relative;top:10px;
+  font-size: medium;
+  align-self: auto;
+  height:auto;
+}
+
+#DST{
+  border-radius: 25px;
+  background: rgb(59, 153, 18);
+  padding: 10px;
+  position:relative;top:10px;
+  font-size: medium;
+  align-self: auto;
+  height:auto;
+}
+
+#JSAB{
+  border-radius: 25px;
+  background: rgb(179, 64, 98);
+  padding: 10px;
+  position:relative;top:10px;
+  font-size: medium;
+  align-self: auto;
+  height: auto;
+}
+#title{
+  font-size: 56px;
+  font-family: 'Times New Roman';
+  font-weight: bolder;
+}
+
+#image{
+  max-width: 100%;
+}
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+/*text end here*/
+/*background starts here*/
+#grad {
+    background-image: linear-gradient(#b57c00, #884601);
+    background-repeat: no-repeat;
+    height: auto;
+    width: auto;
+  }
+
+  #grad1 {
+    background-image: linear-gradient(#af0d7e, #5a0741);
+    background-repeat: no-repeat;
+    height: auto;
+    width: auto;
+  }
+
+  #grad2 {
+    background-image: linear-gradient( #405701, #003400);
+    background-repeat: no-repeat;
+    height: auto;
+    width: auto;
+  }
+
+  #grad3 {
+    background-image: linear-gradient(#5858ec, #07004D);
+    background-repeat: no-repeat;
+    height: auto;
+    width: auto;
+  }
+  /*background ends here*/
+  /*Gif starts here*/
+  #gifR{
+    float: right;
+  }
+
+  #gifL{
+    float: left;
+  }
+
+  #gifC{
+    float: center;
+  }
+  /*Gif ends here*/
+  /*Container starts here*/
+#C1{
+ font-size: medium;
+}
+  /*Container ends here*/
+
+  #TA{
+    text-align: left;
+  }
